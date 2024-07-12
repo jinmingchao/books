@@ -1,0 +1,5 @@
+1.jvm8虚拟机调优
+https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/
+
+2.
+
